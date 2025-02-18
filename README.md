@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: ZeroDivisionError.  The `bug.py` file shows the erroneous code that fails when an empty list is input to an average calculation function. The solution, in `bugSolution.py`, demonstrates how to handle the error gracefully.
